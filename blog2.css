@@ -1,0 +1,11 @@
+.links {
+  float:none;
+  width: 100%;
+}
+
+.foto1 {
+  width: 40%;
+  height: 40%;
+  float:left;
+  margin: 10px 1em 0px 0em;
+}
